@@ -1,0 +1,17 @@
+[
+  {
+    "model": "teams.team",
+    "pk": 1,
+    "fields": {
+      "team_id": 10,
+      "abbreviation": "TOR",
+      "name": "Maple Leafs",
+      "location": "Toronto",
+      "conference": "Eastern",
+      "division": "Atlantic",
+      "wins": 0,
+      "losses": 0,
+      "points": 0
+    }
+  }
+]
